@@ -1,0 +1,61 @@
+.logo{
+    display:block;
+    margin:auto;
+    width: 80px;
+    height: 80px;
+}
+h1 {
+    color: white;
+    text-shadow: 4px 4px 6px #000000;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size:xx-large;
+  }
+.container{
+    max-width: 920px;
+    border: 2px solid black;
+    background-image:url(https://i.pinimg.com/736x/8c/98/99/8c98994518b575bfd8c949e91d20548b.jpg);
+    margin: auto;
+    height: 60vh;
+    padding: 35px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+.message{
+    background-color: rgb(180, 245, 218);
+    width: 24%;
+    padding: 10px;
+    margin:2px solid black;
+    border-radius: 14px;
+}
+.left{
+    float: left;
+    clear: both;
+    background-color:blanchedalmond;
+}
+.right{
+    float: right;
+    clear: both;
+}
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 985px;
+    width: 100%;
+}
+#messageInp{
+    width: 92%;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 34px;
+}
+.btn{
+    cursor:pointer;
+    border:2px solid black;
+    border-radius: 6px;
+    height: 34px;
+}
+body{
+background-image: url(https://w0.peakpx.com/wallpaper/508/606/HD-wallpaper-whatsapp-l-background-doodle-pattern-patterns.jpg);
+}
